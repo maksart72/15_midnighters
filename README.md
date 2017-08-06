@@ -1,6 +1,9 @@
 # Night Owls Detector
 
-[TODO. There will be project description]
+This script takes information about users and their attempts to send tasks for check.
+Use pytz and datetime modules to convert timestamp into user localtime and to detect "night owls" who send tasks after midnight till morning (6:00).
+
+http://devman.org/api/challenges/solution_attempts/?page=1
 
 # Project Goals
 
